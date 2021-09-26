@@ -1,0 +1,157 @@
+[{
+        "producto_id": 1,
+        "nombre": "Bicicleta Motomel",
+        "marca": "Maxam",
+        "precio": 399.99,
+        "rodado": 29,
+        "imagen": "img/bici-motomel-maxam.png",
+        "alt": "Bicicleta motomel maxam rodado 29",
+        "categoria": "Mountain Bike",
+        "banner": "img/mountain-bike.jpg",
+        "descripcion": "Las montañas, senderos o asfalto son su hábitat natural. La horquilla con bloqueo y regulación te hará disfrutar de cada piso y te dará la seguridad que necesitas para disfrutar sin preocuparte del suelo que transites.",
+        "caracteristicas": {
+            "cuadro": " 29” de Aluminio MTB",
+            "cambio": "Shimano Acera",
+            "freno": "disco hidráulico"
+        }
+
+    },
+
+    {
+        "producto_id": 2,
+        "nombre": "Mountain Bike Sunshine",
+        "marca": "Termal",
+        "precio": 399.99,
+        "rodado": 27,
+        "imagen": "img/bici-mtb-termal-sunshine.png",
+        "alt": "Mountain Bike Sunshine rodado 27",
+        "categoria": "Mountain Bike",
+        "banner": "img/mountain-bike.jpg",
+        "descripcion": "Bike Sunshine suma lo mejor de la línea recreativa con detalles técnicos y estéticos únicos en el mercado. Su frente completamente pulido y el diseño de su cuadro le dan estilo a un producto eficiente por naturaleza.",
+        "caracteristicas": {
+            "cuadro": " 29” de Aluminio MTB",
+            "cambio": "Shimano Alivio",
+            "freno": "disco hidráulico Shimano"
+        }
+    },
+
+    {
+        "producto_id": 3,
+        "nombre": "Bicicleta de paseo",
+        "marca": "Stark",
+        "precio": 399.99,
+        "rodado": 27,
+        "imagen": "img/bici-urbana.png",
+        "alt": "Bicicleta de mujer rodado 27 urbana",
+        "categoria": "Urbana",
+        "banner": "img/urbanas.jpg",
+        "descripcion": "Gracias a sus soportes en las vainas y en la horquilla, esta bicicleta está preparada para agregarle alforjas traseras y delanteras. La versátil geometría del cuadro permite gran maniobrabilidad y a la vez comodidad para moverse en el tránsito de la ciudad o en largos recorridos.",
+        "caracteristicas": {
+            "cuadro": "700C de Aluminio URBAN",
+            "cambio": "Shimano Altus",
+            "freno": "disco mecánico"
+        }
+    },
+    {
+        "producto_id": 4,
+        "nombre": "Bicicleta Zest Spirit",
+        "marca": "Rbl",
+        "precio": 399.99,
+        "rodado": 29,
+        "imagen": "img/bici-zest-spirit.png",
+        "alt": "Bicicleta Zest Spirit marca Rbl Rodado 29",
+        "categoria": "Urbana",
+        "banner": "img/urbanas.jpg",
+        "descripcion": "Combina estilo con seguridad de conducción. Incorpora cubiertas de banda reflectiva, frenos roller que no requieren mantenimiento, canasto y cambios sencillos de usar para moverte cómodamente por la ciudad.",
+        "caracteristicas": {
+            "cuadro": "Aluminio 6061. Tig Walded",
+            "cambio": "Shimano Nexus, 3 velocidades",
+            "freno": "Shimano Nexus"
+        }
+    },
+    {
+        "producto_id": 5,
+        "nombre": "Bicicleta Atix M Sram",
+        "marca": "Venzo",
+        "precio": 399.99,
+        "rodado": 29,
+        "imagen": "img/bici-atix-sram.png",
+        "alt": "Bicicleta Atix M Sram Rodado 29",
+        "categoria": "De Ruta",
+        "banner": "img/ruta.jpg",
+        "descripcion": "Las montañas, senderos o asfalto son su hábitat natural. La horquilla con bloqueo y regulación te hará disfrutar de cada piso y te dará la seguridad que necesitas para disfrutar sin preocuparte del suelo que transites.",
+        "caracteristicas": {
+            "cuadro": "27.5” de Aluminio MTB",
+            "cambio": "Shimano Acera",
+            "freno": "disco hidráulico"
+        }
+    },
+    {
+        "producto_id": 6,
+        "nombre": "Bicicleta Skyline Evo",
+        "marca": "Teknial",
+        "precio": 399.99,
+        "rodado": 27,
+        "imagen": "img/bici-skyline.png",
+        "alt": "Bicicleta Skyline Evo Rodado 27",
+        "categoria": "Mountain Bike",
+        "banner": "img/mountain-bike.jpg",
+        "descripcion": "Con su nuevo diseño seguí sumando kilómetros de adrenalina.",
+        "caracteristicas": {
+            "cuadro": "29″ ALUMINIO 6061 MTB",
+            "cambio": "SUNRUN RD-HG-04A",
+            "freno": "disco mecánico"
+        }
+    },
+    {
+        "producto_id": 7,
+        "nombre": "Bicicleta Pigeon",
+        "marca": "Teknial",
+        "precio": 399.99,
+        "rodado": 29,
+        "imagen": "img/bici-pigeon.png",
+        "alt": "Bicicleta Pigeon Rodado 29",
+        "categoria": "Ruta",
+        "banner": "img/ruta.jpg",
+        "descripcion": "Salí a la ruta con la Pigeon. Vas a lograr lo que siempre buscaste en una bici cómoda y rápida. El cuadro de fibra de carbono sumado al equipamiento con el que diseñamos a la Pigeon, son la combinación perfecta para quienes hacen largas distancias y necesitan que la bici les haga la tarea más placentera a una gran velocidad.",
+        "caracteristicas": {
+            "cuadro": "endurance de fibra de carbono",
+            "cambio": "Shimano Tiagra",
+            "freno": "PROMAX RC462"
+        }
+    },
+    {
+        "producto_id": 8,
+        "nombre": "Bicicleta Pixel Niños",
+        "marca": "Teknial",
+        "precio": 399.99,
+        "rodado": 26,
+        "imagen": "img/bici-pixel.png",
+        "alt": "Bicicleta Pixel para Niños Rodado 26",
+        "categoria": "Niños",
+        "banner": "img/ninios.jpg",
+        "descripcion": "El sueño de los niños se hizo realidad: tener la libertad de ir a donde quiera arriba de una bici. Dejalo afrontar sus propias aventuras con una bici resistente, sencilla de manejar y apropiada en tamaño y proporción.",
+        "caracteristicas": {
+            "cuadro": " '20' de Aluminio BMX",
+            "cambio": "No",
+            "freno": "V-Brake"
+        }
+    },
+    {
+        "producto_id": 9,
+        "nombre": "Bicicleta Logik Plegable",
+        "marca": "Teknial",
+        "precio": 399.99,
+        "rodado": 26,
+        "imagen": "img/bici-logik.jpg",
+        "alt": "Bicicleta Logik Plegable Rodado 26",
+        "categoria": "Plegables",
+        "banner": "img/plegables.jpg",
+        "descripcion": "La bicicleta plegable ideal para ir al trabajo que se adapta a todos los espacios y lugares a los que quieras llevarla. Se pliega de manera sencilla e incorpora cambios y ajustes de sillín para conducir de manera cómoda al trabajo.",
+        "caracteristicas": {
+            "cuadro": "20″ de Aluminio",
+            "cambio": "Shimano Nexus",
+            "freno": "Aluminio V-BRAKE"
+        }
+    }
+]
